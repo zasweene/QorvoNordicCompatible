@@ -1,10 +1,7 @@
-# DWM3000 - ex_02d_rx_sniff
-
-## Overview
-
-## Requirements
-
-## Building and Running
+Here's what it should look like.
+Try3 has the correct build.
+Let me know if it runs on your end.
+You will need to install J Link and nrfjprog.
 
 ## Sample Output
 ```
